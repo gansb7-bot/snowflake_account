@@ -1,0 +1,15 @@
+{
+    "filename": "capability_framework_node_uc7.csv",
+    "columns": [
+{"name": "capabilityframeworknodeid", "datatype": "random_number"},
+{"name": "capabilityframeworknodenm", "datatype": "random_text"},
+{"name": "capabilityframeworknodetypedesc", "datatype": "random_number"},
+{"name": "createdttm", "datatype": "date"},
+{"name": "createuserid", "datatype": "enterprise_id"},
+{"name": "jobDttm", "datatype": "date"},
+{"name": "RawingestionDttm", "datatype": "date"},
+{"name": "rowstatusfl", "datatype": "status"},
+{"name": "updatedttm", "datatype": "date"},
+{"name": "updateuserid", "datatype": "enterprise_id"}
+    ]
+}

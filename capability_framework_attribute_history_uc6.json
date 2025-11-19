@@ -1,0 +1,17 @@
+{
+    "filename": "capability_framework_attribute_history_uc6.csv",
+    "columns": [
+{"name": "attributecd", "datatype": "random_number"},
+{"name": "capabilityframeworknodeid", "datatype": "random_number"},
+{"name": "contentvalue", "datatype": "random_number"},
+{"name": "createdttm", "datatype": "date"},
+{"name": "createuserid", "datatype": "enterprise_id"},
+{"name": "effectiveenddt", "datatype": "date"},
+{"name": "effectivestartdt", "datatype": "date"},
+{"name": "jobDttm", "datatype": "date"},
+{"name": "RawingestionDttm", "datatype": "date"},
+{"name": "rowstatusfl", "datatype": "status"},
+{"name": "updatedttm", "datatype": "date"},
+{"name": "updateuserid", "datatype": "enterprise_id"}
+    ]
+}

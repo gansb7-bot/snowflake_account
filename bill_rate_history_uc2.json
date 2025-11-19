@@ -1,0 +1,28 @@
+{
+    "filename": "billrate_history_uc2.csv",
+    "columns": [
+{"name": "Address", "datatype": "address"},
+{"name": "BLANK_1", "datatype": "random_text"},
+{"name": "BLANK_2", "datatype": "random_text"},
+{"name": "City", "datatype": "city"},
+{"name": "ControllingArea", "datatype": "random_text"},
+{"name": "CreateDt", "datatype": "date"},
+{"name": "EnteredBy", "datatype": "enterprise_id"},
+{"name": "FaxNbr", "datatype": "random_text"},
+{"name": "HierarchyArea", "datatype": "random_text"},
+{"name": "jobDttm", "datatype": "date"},
+{"name": "LockIndicator", "datatype": "random_text"},
+{"name": "PersonResponsibleNm", "datatype": "random_text"},
+{"name": "PhoneNbr", "datatype": "phone_number"},
+{"name": "PostalCd", "datatype": "postcode"},
+{"name": "ProfitCenterLongDescr", "datatype": "random_text"},
+{"name": "ProfitCenterNbr", "datatype": "random_number"},
+{"name": "ProfitCenterShortDescr", "datatype": "random_text"},
+{"name": "RawingestionDttm", "datatype": "date"},
+{"name": "RowStatusFl", "datatype": "status"},
+{"name": "TaxJurisdiction", "datatype": "random_text"},
+{"name": "TypeOfWork", "datatype": "random_text"},
+{"name": "ValidFromDt", "datatype": "date"},
+{"name": "ValidToDt", "datatype": "date"}
+    ]
+}
